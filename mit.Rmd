@@ -1,0 +1,27 @@
+---
+title: "Plant Mitochondrial Genome Research Poster and Publication"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Please see the following publication and associated research poster.
+
+* [High mitochondrial mutation rates in Silene are associated with nuclear-mediated changes in mitochondrial physiology](mitopub.pdf)
+
+![ ](mit1.jpg)
+
+![ ](mit2.jpg)
+
+![ ](mit3.jpg)
+
+![ ](mit4.jpg)
+
+![ ](mit5.jpg)
+
+![ ](mit6.jpg)
+
+![ ](mit7.jpg)
+
+

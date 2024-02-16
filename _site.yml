@@ -1,0 +1,16 @@
+navbar:
+  title: Gina Carrion
+  type: inverse
+  left:
+    - text: Writing Samples
+      menu:
+      - text: Cell Polarity
+        href: polreport.html
+      - text: Craniofacial Development
+        href: cfd.html
+      - text: Research Poster
+        href: mit.html
+
+output:
+  html_document:
+    theme: spacelab
